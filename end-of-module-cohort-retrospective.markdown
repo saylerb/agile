@@ -16,7 +16,8 @@ Split cohorts into teams of 5 or 6.
   * Deb - confidence, willingness to tackle problems on your own
   * Erin - not lying about being sick and then going to karaoke
   * Robbie - improve on being my gametime partner
-  * Charles - Charles could stop farting. 
+  * Charles - Charles could stop farting.
+
 ### Share (20 min) 
 Organize each group in a circle. Put one student in the middle of the circle and have the other members share their feedback. Change the participant in the center until everyone has received feedback
 
